@@ -1,0 +1,15 @@
+C:\Users\Admin\Dropbox\Документы\разработка\C#\Homework3\task23_3=27\bin\Debug\net6.0\task23_3=27.exe
+C:\Users\Admin\Dropbox\Документы\разработка\C#\Homework3\task23_3=27\bin\Debug\net6.0\task23_3=27.deps.json
+C:\Users\Admin\Dropbox\Документы\разработка\C#\Homework3\task23_3=27\bin\Debug\net6.0\task23_3=27.runtimeconfig.json
+C:\Users\Admin\Dropbox\Документы\разработка\C#\Homework3\task23_3=27\bin\Debug\net6.0\task23_3=27.dll
+C:\Users\Admin\Dropbox\Документы\разработка\C#\Homework3\task23_3=27\bin\Debug\net6.0\task23_3=27.pdb
+C:\Users\Admin\Dropbox\Документы\разработка\C#\Homework3\task23_3=27\obj\Debug\net6.0\task23_3=27.csproj.AssemblyReference.cache
+C:\Users\Admin\Dropbox\Документы\разработка\C#\Homework3\task23_3=27\obj\Debug\net6.0\task23_3=27.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Dropbox\Документы\разработка\C#\Homework3\task23_3=27\obj\Debug\net6.0\task23_3=27.AssemblyInfoInputs.cache
+C:\Users\Admin\Dropbox\Документы\разработка\C#\Homework3\task23_3=27\obj\Debug\net6.0\task23_3=27.AssemblyInfo.cs
+C:\Users\Admin\Dropbox\Документы\разработка\C#\Homework3\task23_3=27\obj\Debug\net6.0\task23_3=27.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Dropbox\Документы\разработка\C#\Homework3\task23_3=27\obj\Debug\net6.0\task23_3=27.dll
+C:\Users\Admin\Dropbox\Документы\разработка\C#\Homework3\task23_3=27\obj\Debug\net6.0\refint\task23_3=27.dll
+C:\Users\Admin\Dropbox\Документы\разработка\C#\Homework3\task23_3=27\obj\Debug\net6.0\task23_3=27.pdb
+C:\Users\Admin\Dropbox\Документы\разработка\C#\Homework3\task23_3=27\obj\Debug\net6.0\task23_3=27.genruntimeconfig.cache
+C:\Users\Admin\Dropbox\Документы\разработка\C#\Homework3\task23_3=27\obj\Debug\net6.0\ref\task23_3=27.dll

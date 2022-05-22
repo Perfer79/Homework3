@@ -1,0 +1,15 @@
+C:\Users\Admin\Dropbox\Документы\разработка\C#\Homework3\task19_Palindrom\bin\Debug\net6.0\task19_Palindrom.exe
+C:\Users\Admin\Dropbox\Документы\разработка\C#\Homework3\task19_Palindrom\bin\Debug\net6.0\task19_Palindrom.deps.json
+C:\Users\Admin\Dropbox\Документы\разработка\C#\Homework3\task19_Palindrom\bin\Debug\net6.0\task19_Palindrom.runtimeconfig.json
+C:\Users\Admin\Dropbox\Документы\разработка\C#\Homework3\task19_Palindrom\bin\Debug\net6.0\task19_Palindrom.dll
+C:\Users\Admin\Dropbox\Документы\разработка\C#\Homework3\task19_Palindrom\bin\Debug\net6.0\task19_Palindrom.pdb
+C:\Users\Admin\Dropbox\Документы\разработка\C#\Homework3\task19_Palindrom\obj\Debug\net6.0\task19_Palindrom.csproj.AssemblyReference.cache
+C:\Users\Admin\Dropbox\Документы\разработка\C#\Homework3\task19_Palindrom\obj\Debug\net6.0\task19_Palindrom.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Dropbox\Документы\разработка\C#\Homework3\task19_Palindrom\obj\Debug\net6.0\task19_Palindrom.AssemblyInfoInputs.cache
+C:\Users\Admin\Dropbox\Документы\разработка\C#\Homework3\task19_Palindrom\obj\Debug\net6.0\task19_Palindrom.AssemblyInfo.cs
+C:\Users\Admin\Dropbox\Документы\разработка\C#\Homework3\task19_Palindrom\obj\Debug\net6.0\task19_Palindrom.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Dropbox\Документы\разработка\C#\Homework3\task19_Palindrom\obj\Debug\net6.0\task19_Palindrom.dll
+C:\Users\Admin\Dropbox\Документы\разработка\C#\Homework3\task19_Palindrom\obj\Debug\net6.0\refint\task19_Palindrom.dll
+C:\Users\Admin\Dropbox\Документы\разработка\C#\Homework3\task19_Palindrom\obj\Debug\net6.0\task19_Palindrom.pdb
+C:\Users\Admin\Dropbox\Документы\разработка\C#\Homework3\task19_Palindrom\obj\Debug\net6.0\task19_Palindrom.genruntimeconfig.cache
+C:\Users\Admin\Dropbox\Документы\разработка\C#\Homework3\task19_Palindrom\obj\Debug\net6.0\ref\task19_Palindrom.dll
