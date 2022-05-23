@@ -27,10 +27,15 @@ string number = Console.ReadLine();
 bool Palin = true;
 
 for (int i = 0; i < (number.Length - 1) / 2; i++)
+{
     if (number[i] != number[number.Length - i - 1])
-        Palin = false;
-
+    Palin = false;
+}
 if (Palin)
+{
     Console.WriteLine("Палиндром");
-else Console.WriteLine("Не палиндром");
-
+}
+else 
+{
+    Console.WriteLine("Не палиндром");
+}
